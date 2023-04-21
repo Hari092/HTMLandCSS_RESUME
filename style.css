@@ -1,0 +1,22 @@
+head{
+    font-family: 'Lato', sans-serif;
+}
+body{
+    font-family: 'Lato', sans-serif;
+    color: rgb(0, 0, 0);
+}
+h1{
+    color: rgba(0, 0, 0, 0.801);
+    font-size: xx-large;
+    font: weight 20px;
+}
+.X{
+    font-size: larger;
+    font-style: italic;
+    color: black;
+}
+.horizontal-line{
+    border: none; 
+    border-top: 2px solid black;
+    margin: 20px 0; 
+}
